@@ -6,3 +6,6 @@ Today-I-Learn (TIL) is inspired by Thoughbot, TIL is a repository to share what 
 
 #### Quality Assurance
 [Exploratory Testing and Mindmaps](https://github.com/rgondev/til/blob/master/youtube/exploratory-testing-and-mindmaps.md)
+
+#### Testing
+[Refactoring Legacy Projects and Test Suites](https://github.com/rgondev/til/blob/master/podcast/refactoring-legacy-projects-and-test-suites.md)
