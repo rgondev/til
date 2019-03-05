@@ -9,3 +9,9 @@ Today-I-Learn (TIL) is inspired by Thoughbot, TIL is a repository to share what 
 
 #### [Testing](https://github.com/rgondev/til/blob/master/README.md#testing)
 **Refactoring Legacy Projects and Test Suites** [Podcast](https://github.com/rgondev/til/blob/master/podcast/refactoring-legacy-projects-and-test-suites.md)
+
+##License
+&copy; 2019 Rubén González
+
+This repository is licensed under the MIT license. See `LICENSE` for
+details.
