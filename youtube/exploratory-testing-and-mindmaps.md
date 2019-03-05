@@ -1,4 +1,5 @@
 # Exploratory Testing and Mindmaps
+**Category:** [Quality Assurance](https://github.com/rgondev/til/blob/master/README.md#quality_assurance)
 ### Youtube
 
 <!-- Youtube embedded -->

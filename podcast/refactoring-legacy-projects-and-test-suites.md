@@ -1,4 +1,5 @@
 # Refactoring Legacy Projects and Test Suites
+**Category:** [Testing](https://github.com/rgondev/til/blob/master/README.md#testing)
 ### Ruby Testing Podcast Blog
 
 *I talk with John Cech of Planet Argon about refactoring legacy Rails projects and legacy test suites.*
