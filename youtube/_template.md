@@ -2,7 +2,7 @@
 **Category:** [%Category%](https://github.com/rgondev/til/blob/master/README.md#category)
 ### Youtube
 
-**Youtube link:** http://www.link-to-the-youtube-video
+**Youtube link:** http://www.link-to-the-youtube-video  
 **Youtube channel:** [Youtube channel](http://www.link-to-the-youtube-channel)
 
 ### Speakers
