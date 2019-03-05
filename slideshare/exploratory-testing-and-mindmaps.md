@@ -6,7 +6,5 @@
 **Slideshare link:** www.slideshare.net/ClaudiaBadell/webinar-plataforma-northem-quality-testing-exploratorio-y-mind-maps
 **Slideshare profile:** [Claudia Badell](www.slideshare.net/ClaudiaBadell/)
 
-[Webinar plataforma Northem Quality: Testing Exploratorio y Mind maps](www.slideshare.net/ClaudiaBadell/webinar-plataforma-northem-quality-testing-exploratorio-y-mind-maps)
-
 ### Author
 Claudia Badell [@claubs_uy](https://twitter.com/claubs_uy)
